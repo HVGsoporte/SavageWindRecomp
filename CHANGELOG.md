@@ -2,7 +2,7 @@
 
 What changed in each Savage Wind release. The `test` branch holds what the next one will contain.
 
-## Next (on the `test` branch)
+## Next (on `test` branch)
 
 Nothing yet.
 
